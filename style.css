@@ -28,7 +28,7 @@ body {
     
     h1 {
     font-size: 80px;
-    color: rgb(58, 129, 56);
+    color: rgb(255, 250, 249);
     }
     
     p {
@@ -55,7 +55,7 @@ body {
     
     .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(0, 188, 245);
+    border: 3px solid rgb(255, 255, 255);
     }
     
     .categoria h2 {
